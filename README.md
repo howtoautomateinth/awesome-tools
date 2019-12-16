@@ -1,6 +1,9 @@
 # Awesome Tools
 awesome collection of tools
 
+### Utilities
+- [wget](https://github.com/mirror/wget)
+> brew install wget
 
 ### Iterm
 - [Autojump](https://github.com/wting/autojump) 
