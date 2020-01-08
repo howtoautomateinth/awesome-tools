@@ -1,9 +1,11 @@
 # Awesome Tools
 awesome collection of tools
 
+### K8S 
+- [kubectl alias](https://github.com/ahmetb/kubectl-aliases)
+
 ### Utilities
 - [wget](https://github.com/mirror/wget)
-> brew install wget
 
 ### Iterm
 - [Autojump](https://github.com/wting/autojump) 
