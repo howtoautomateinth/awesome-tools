@@ -17,3 +17,7 @@ awesome collection of tools
 - [Gitlense](https://gitlens.amod.io/) 
 - [AWS VS Code toolkit](https://aws.amazon.com/visualstudiocode/#)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+### Continuous Integration 
+- [Travis CI](https://travis-ci.org/)
+  - [Encryption Keys](https://docs.travis-ci.com/user/encryption-keys/)
