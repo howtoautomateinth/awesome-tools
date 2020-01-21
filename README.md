@@ -5,6 +5,7 @@ awesome collection of tools
 - [kubectl alias](https://github.com/ahmetb/kubectl-aliases)
   - Also [Turn on script execution on powershell](https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts)
 - [kustomize](https://github.com/kubernetes-sigs/kustomize)
+  - [Supports Document](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/)
 
 ### Utilities
 - [wget](https://github.com/mirror/wget)
