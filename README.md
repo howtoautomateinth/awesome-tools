@@ -9,6 +9,7 @@ awesome collection of tools
 
 ### Utilities
 - [wget](https://github.com/mirror/wget)
+- [ngrok](https://ngrok.com/)
 
 ### Iterm
 - [Autojump](https://github.com/wting/autojump) 
