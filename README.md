@@ -1,6 +1,9 @@
 # Awesome Tools
 awesome collection of tools
 
+### Docker
+- [dockerize](https://github.com/jwilder/dockerize) prevent racing condition
+
 ### K8S 
 - [kubectl alias](https://github.com/ahmetb/kubectl-aliases)
   - Also [Turn on script execution on powershell](https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts)
