@@ -27,3 +27,6 @@ awesome collection of tools
 ### Continuous Integration 
 - [Travis CI](https://travis-ci.org/)
   - [Encryption Keys](https://docs.travis-ci.com/user/encryption-keys/)
+  
+### Web Images Tools
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
