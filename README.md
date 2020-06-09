@@ -21,8 +21,10 @@ awesome collection of tools
 
 ### VS Code Plugins
 - [Gitlense](https://gitlens.amod.io/) 
-- [AWS VS Code toolkit](https://aws.amazon.com/visualstudiocode/#)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [Prettify-json](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json)
+- [AWS VS Code toolkit](https://aws.amazon.com/visualstudiocode/#)
+- [CloudFormation Template](https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform)
 
 ### Continuous Integration 
 - [Travis CI](https://travis-ci.org/)
