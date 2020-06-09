@@ -25,6 +25,7 @@ awesome collection of tools
 - [Prettify-json](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json)
 - [AWS VS Code toolkit](https://aws.amazon.com/visualstudiocode/#)
 - [CloudFormation Template](https://marketplace.visualstudio.com/items?itemName=aws-scripting-guy.cform)
+- [CloudFormation Linter](https://marketplace.visualstudio.com/items?itemName=kddejong.vscode-cfn-lint)
 
 ### Continuous Integration 
 - [Travis CI](https://travis-ci.org/)
