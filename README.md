@@ -18,6 +18,7 @@ awesome collection of tools
 - [Autojump](https://github.com/wting/autojump) 
 - [Oh my Zsh](https://github.com/robbyrussell/oh-my-zsh) 
 - [Af Magic](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/af-magic.zsh-theme) Theme for Oh my Zsh
+- [AWS autocomplete finder set](https://medium.com/@herryhan2435/using-aws-cli-with-fzf-on-ohmyzsh-ec995ee3784f)
 
 ### VS Code Plugins
 - [Gitlense](https://gitlens.amod.io/) 
